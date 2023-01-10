@@ -39,7 +39,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link]()
+[Comming soon]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +79,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Working on it**
+- [ ] **Add functionality**
 - [ ] **Add a style**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
