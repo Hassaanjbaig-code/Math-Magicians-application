@@ -25,11 +25,17 @@ class Calculator extends React.Component {
     return (
       <div className="calculator">
         <ul className="main">
-          <p className="text" type="text">{ next || total || operation || 0}</p>
+          <p className="text" type="text">
+            <span>
+              {total}
+              {operation}
+              {next}
+            </span>
+          </p>
           <li className="row">
             <button onClick={this.handleClick} type="button">AC</button>
             <button onClick={this.handleClick} type="button">+/-</button>
-            <button onClick={this.handleClick} type="button">  %</button>
+            <button onClick={this.handleClick} type="button">%</button>
             <button onClick={this.handleClick} type="button" className="right">&#247;</button>
           </li>
           <li className="row">
