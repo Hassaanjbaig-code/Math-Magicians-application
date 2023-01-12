@@ -21,9 +21,11 @@
 }
 
 .text {
-  width: 23.5rem;
+  width: 24rem;
   height: 5rem;
   background-color: #858594;
+  font-size: 2rem;
+  margin: 0;
 }
 
 .right {
