@@ -17,8 +17,7 @@
   - [📝 License ](#-license-)
 
 
-# 📖 Leaderboard Score <a name="about-project"></a>
-# Math-Magicians-application
+# 🧮 Math-Magicians-application <a name="about-project"></a>
 **Math-Magicians-application** is a project we build a calculator that perform tha basic calculation with help of react
 
 
