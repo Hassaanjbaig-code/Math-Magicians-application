@@ -1,7 +1,8 @@
 import React from 'react';
+import './About.css';
 
 const About = () => (
-  <div>
+  <div className="About-main">
     <h3>Welcome to over page</h3>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+
+.About-main {
+  width: 91%;
+}
+
+.About-main h3 {
+  font-family: 'Rowdies', cursive;
+  font-weight: 700;
+  font-size: 2rem;
+  font-style: oblique;
+}
