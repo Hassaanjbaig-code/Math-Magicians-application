@@ -14,6 +14,7 @@ const Fcalculator = () => {
   const { total, operation, next } = items;
   return (
     <div className="calculator">
+      <h3>Let&apos;s do some math!</h3>
       <ul className="main">
         <p className="text" type="text">
           <span>
