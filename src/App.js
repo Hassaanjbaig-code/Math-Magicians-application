@@ -16,8 +16,8 @@ class App extends React.Component {
       <>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Fcalculator />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/" element={<About />} />
+          <Route path="/Calculator" element={<Fcalculator />} />
           <Route path="/Quote" element={<Quote />} />
         </Routes>
       </>
