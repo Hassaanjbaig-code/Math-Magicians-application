@@ -27,9 +27,16 @@ test('Add a number', () => {
   expect(result).toEqual({ ...object, total: '10' });
 });
 
-test('Multiple two number', () => {
+test('Divide two number', () => {
   const obj = { next: 5, operation: '÷', total: '5' };
   const buttonName = '=';
   const result = calculate(obj, buttonName);
   expect(result).toEqual({ ...object, total: '1' });
+});
+
+test('Multiply the two number', () => {
+  const obj = { next: 5, operation: 'x', total: '5' };
+  const buttonName = '=';
+  const result = calculate(obj, buttonName);
+  expect(result).toEqual({ ...object, total: '25' });
 });
