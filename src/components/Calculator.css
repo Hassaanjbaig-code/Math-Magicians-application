@@ -1,7 +1,15 @@
 .calculator {
   display: flex;
   width: 100%;
-  justify-content: center;
+  justify-content: space-between;
+}
+
+.calculator h3 {
+  margin-left: 2%;
+}
+
+.main {
+  margin-right: 2%;
 }
 
 .main li {
