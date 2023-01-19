@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /math-magicians-application
+/__snapshots__
 
 # testing
 /coverage
